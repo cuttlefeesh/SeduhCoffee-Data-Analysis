@@ -178,7 +178,3 @@ Problem Definition → Data Cleaning → Pivot Table → SQL → EDA → Visuali
 | LookUp Mapping | Tabel standarisasi channel, gender, dan quantity |
 | EDA | Statistik deskriptif dan deteksi outlier |
 | Q1-Q3, Q4-Q7 | Pivot table dan chart per pertanyaan bisnis |
-
-## 9. Keterbatasan
-
-- Data bersifat fiktif sehingga hasil tidak dapat digeneralisasi ke bisnis nyata.
