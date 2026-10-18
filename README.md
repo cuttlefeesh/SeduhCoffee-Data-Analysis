@@ -182,8 +182,3 @@ Problem Definition → Data Cleaning → Pivot Table → SQL → EDA → Visuali
 ## 9. Keterbatasan
 
 - Data bersifat fiktif sehingga hasil tidak dapat digeneralisasi ke bisnis nyata.
-- Analisis bersifat deskriptif dan korelasional. Estimasi potensi revenue (mis. Rp852,8 jt) bergantung pada asumsi, seperti target frekuensi pembelian 2x.
-
----
-
-**Author:** Chandra Aulia Haswangga: Data Analyst Enthusiast, S1 Teknik Komputer, Telkom University
